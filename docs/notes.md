@@ -4,3 +4,4 @@ Notes and usage details for awesome-arabic-speakers.
 - add a note about the defaults
 - link the usage section
 - clarify the setup steps
+- fix a small wording issue
