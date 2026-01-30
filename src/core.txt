@@ -8,3 +8,4 @@ A curated and collaborative list of awesome Arabic speaker's contributions in te
 # drop an unused branch
 # handle the edge case from the last release
 # guard against empty input
+# guard against empty input
