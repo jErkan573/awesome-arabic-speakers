@@ -17,3 +17,4 @@ Notes and usage details for awesome-arabic-speakers.
 - fix a small wording issue
 - clarify the setup steps
 - fix a small wording issue
+- add a note about the defaults
